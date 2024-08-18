@@ -8,5 +8,5 @@ def StudentSignupView(request):
         form = StudentForm(request.POST)
         if form.is_valid():
             form.save()
-    
+    print(form)
     return render(request,'student/signup.html',{'form':form})
