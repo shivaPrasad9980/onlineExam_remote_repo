@@ -1,0 +1,40 @@
+.bg-container{
+    background-color: rgb(247, 246, 243);
+    background-size : cover ;
+    width : 100%;
+    height : 600px;
+    text-align : center;
+    color : white;
+}
+.navbar1{
+    color:white;
+}
+.main-heading{
+    color:aqua;
+    font-size: 90px;
+    font-weight: 10;
+}
+.heading2{
+    font-size: 50px;
+    color:black;
+}
+.button1{
+    background-color: rgb(95, 218, 240);
+    font-size: 20px;
+}
+.icon1{
+    font-size: 30px;
+}
+.copyrignt1{
+    background-color: rgb(169, 162, 162);
+}
+.card{
+    background-color: rgb(197, 191, 199);
+    color: white;
+}
+.footer{
+    position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+}
